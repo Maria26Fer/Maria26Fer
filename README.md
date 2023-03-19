@@ -20,13 +20,12 @@
 
 <Br> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-fernanda26)
-[![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariafernandadias26@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-MariaFernanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-fernanda26/)](https://www.linkedin.com/in/maria-fernanda26/) 
+[![Email Badge](https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=Gmail&logoColor=red&link=mailto:mariafernandadias26@gmail.com)](mailto:mariafernandadias26@gmail.com)
 
 ## Estatísticas 
 
 <Br>
 
 ![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=Maria26Fer&show_icons=true&theme=tokyonight)
-
 
