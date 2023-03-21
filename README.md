@@ -1,7 +1,7 @@
 # Olá mundo, me chamo Maria Fernanda ! 🤗 
 
 - 📚 Atualmente estudando para desenvolvimento web 
-- 📙 No momento aprendendo HTML
+- 📙 No momento aprendendo HTML, CSS, JavaScript, Git e GitHub
 - 👩🏻‍💻 Procurando oportunidades de estágios na área de front-end
 
 <Br>
