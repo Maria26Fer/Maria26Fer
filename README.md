@@ -1,8 +1,8 @@
 # Olá mundo, me chamo Maria Fernanda ! 🤗 
 
-- 📚 Atualmente estudando para desenvolvimento web 
-- 📙 No momento aprendendo HTML, CSS, JavaScript, Git e GitHub
-- 👩🏻‍💻 Procurando oportunidades de estágios na área de front-end
+- 📚 Atualmente estudando para desenvolvimento web na Cubos Academy
+- 📙 No momento aprendendo HTML, CSS, JavaScript, React, Git e GitHub
+- 👩🏻‍💻 Procurando oportunidades de estágios na área de full stack 
 
 <Br>
 
@@ -14,6 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="60" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="60" height="55"/>       
 </div>
  
 ## Contatos 
