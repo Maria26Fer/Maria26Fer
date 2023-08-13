@@ -1,32 +1,23 @@
-# Olá mundo, me chamo Maria Fernanda ! 🤗 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C0027&height=120&section=header"/>
 
-- 📚 Atualmente estudando para desenvolvimento web na Cubos Academy
-- 📙 No momento aprendendo HTML, CSS, JavaScript, React, Git e GitHub
-- 👩🏻‍💻 Procurando oportunidades de estágios na área de full stack 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7D1935&size=32&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Maria+Fernanda.;+Tenho+22+anos.+;e+sou+estudante+de+Desenvolvimento+Back-End.;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-<Br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maria26Fer&bg_color=0d1117&color=72083f&line=58042f&point=a8385a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://user-images.githubusercontent.com/103529556/226201044-8a372aff-bbae-4333-8e33-f501b87e7bd2.gif" width="400" heigth="450">
-
-## Tecnologias que estou aprendendo
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="60" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="60" height="55"/>       
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Maria26Fer&show_icons=true&count_private=true&hide_border=true&title_color=7D1935&icon_color=7D1935&text_color=c9d1d9&bg_color=0d1117" alt="Maria Fernanda github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria26Fer&layout=compact&hide_border=true&title_color=7D1935&text_color=7D1935&bg_color=0d1117" />
 </div>
- 
-## Contatos 
 
-<Br> 
+<div align="center"> 
+<a href = "mailto:mariafernandadias26@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/maria-fernanda26" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: "30px" target="_blank"></a> 
 
-[![Linkedin](https://img.shields.io/badge/-MariaFernanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-fernanda26/)](https://www.linkedin.com/in/maria-fernanda26/) 
-[![Email Badge](https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=Gmail&logoColor=red&link=mailto:mariafernandadias26@gmail.com)](mailto:mariafernandadias26@gmail.com)
+ ### Studying in this moment:
 
-## Estatísticas 
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 
-<Br>
-
-![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=Maria26Fer&show_icons=true&theme=tokyonight)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C0027&height=120&section=footer"/>
